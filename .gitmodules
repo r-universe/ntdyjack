@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fasthplus"]
+	path = fasthplus
+	url = https://github.com/ntdyjack/fasthplus
+	shallow = true
+	registered = true
